@@ -1,0 +1,8 @@
+C:\Users\kpate\Downloads\DivvyAnalysis\DivvyAnalysis\DivvyAnalysis\bin\Debug\DivvyAnalysis.exe.config
+C:\Users\kpate\Downloads\DivvyAnalysis\DivvyAnalysis\DivvyAnalysis\bin\Debug\DivvyAnalysis.XML
+C:\Users\kpate\Downloads\DivvyAnalysis\DivvyAnalysis\DivvyAnalysis\bin\Debug\DivvyAnalysis.exe
+C:\Users\kpate\Downloads\DivvyAnalysis\DivvyAnalysis\DivvyAnalysis\bin\Debug\DivvyAnalysis.pdb
+C:\Users\kpate\Downloads\DivvyAnalysis\DivvyAnalysis\DivvyAnalysis\bin\Debug\FSharp.Core.dll
+C:\Users\kpate\Downloads\DivvyAnalysis\DivvyAnalysis\DivvyAnalysis\bin\Debug\FSharp.Core.xml
+C:\Users\kpate\Downloads\DivvyAnalysis\DivvyAnalysis\DivvyAnalysis\obj\Debug\DivvyAnalysis.exe
+C:\Users\kpate\Downloads\DivvyAnalysis\DivvyAnalysis\DivvyAnalysis\obj\Debug\DivvyAnalysis.pdb
